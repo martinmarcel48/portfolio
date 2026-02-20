@@ -35,20 +35,6 @@ li {
     margin-bottom: 10px;
 }
 
-.button {
-    display: inline-block;
-    margin-top: 15px;
-    padding: 10px 15px;
-    background-color: #4da3ff;
-    color: #000;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-.button:hover {
-    background-color: #79bbff;
-}
-
 footer {
     text-align: center;
     padding: 20px;
