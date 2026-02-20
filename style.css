@@ -64,3 +64,32 @@ footer {
     margin-bottom: 20px;
     box-shadow: 0 0 15px rgba(77, 163, 255, 0.4);
 }
+
+@media (max-width: 768px) {
+
+    header {
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    section {
+        margin: 25px auto;
+        padding: 0 15px;
+    }
+
+    .marcel-img {
+        width: 100px;
+        margin-bottom: 15px;
+    }
+
+    .button {
+        display: block;
+        width: 100%;
+        text-align: center;
+        font-size: 16px;
+        padding: 12px;
+    }
+}
